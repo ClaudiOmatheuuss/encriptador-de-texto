@@ -13,7 +13,6 @@ function clicado() {
     }
 }
 
-
 //lógica do encriptador
 
 const textArea = document.querySelector(".text-area");
