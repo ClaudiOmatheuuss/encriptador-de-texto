@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/reset.css">
+    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="icon" href="assets/img/logoAlura.png">
+    <title>Challenge | Encriptador</title>
+</head>
+<body>
+    <header>
+        <a class="logoAlura" href="https://www.alura.com.br/" alt="Logo da Alura" target="_blank"><img src="/assets/img/logoAlura.png" alt="Logo da Alura"></a> 
+    </header>
+
+    <main>
+        <section>       <!-- código da seção do lado esquerdo  -->  
+            <textarea class="text-area" cols="41" rows="04" placeholder="Digite seu texto"></textarea>
+            <h6 class="informacao"><img src="assets/img/Vector.png" alt="Apenas letras minúsculas e sem acentos"> Apenas letras minúsculas e sem acentos.</h6>
+
+            <div class="botoes">
+
+                <button class="btn-encriptar" onclick="btnEncriptar(), clicado(imagem)">Criptografar</button>
+                <button class="btn-desencriptar" onclick="btnDesencriptar(), clicado(imagem)">Desicriptografar</button>
+            </div>
+            
+        </section>
+        
+        <section class="campo-mensagem">        <!-- código da seção do lado direito  -->
+            <textarea class="mensagem" cols="20" rows="10" id="campo-mensagem" readonly></textarea>
+            <img src="assets/img/boneco.png" alt="boneco azul" id="img-mensagem">
+            <button class="btn-copiar" onclick="btnCopiar()">Copiar</button>
+        </section>    
+    </main>
+
+    <footer>
+
+        <nav>   
+            <ul>
+                <li class="nome">
+                    &copy;  Desenvolvido por Claudio Matheus 🧑‍💻</a></li>
+                </li>
+                <li> <a href="https://github.com/ClaudiOmatheuuss" target="_blank"> 
+                    <img class="github-logo" src="assets/img/github-logo.png" alt="Meu github" width = 20px;></a></li>
+
+                <li> <a href="https://www.linkedin.com/in/cl%C3%A1udio-matheus-7a6610230/" target="_blank"> 
+                    <img class="linkedin-logo" src="assets/img/linkedin-logo.png" alt="Meu linkedin" width = 20px;></a></li>
+
+            </ul> 
+        </nav>
+    </footer>
+    
+    <script src="assets/script.js"></script>
+</body>
+</html>
