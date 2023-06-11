@@ -65,10 +65,11 @@ function desencriptar(stringDesencriptada) {
     return stringDesencriptada;
 }
 
-function btnCopiar() {
+function btnCopiar(mensagem) {
+    
     const texto = mensagem.value;
     navigator.clipboard.writeText(texto);
     mensagem.value = " ";
 
-    return alert('Texto copiado!');
+    alert('O texto copiado foi: ' + texto)
 }
