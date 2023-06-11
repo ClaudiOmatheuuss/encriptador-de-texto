@@ -324,7 +324,7 @@ nav li:first-child {
     }
 
     .nome{
-        font-size: 1rem;
+        font-size: 2rem;
     }
     .github-logo{
         transition: 0.5s;
@@ -335,6 +335,7 @@ nav li:first-child {
     }
 
     .linkedin-logo{
+        margin-left: 24px;
         transition: 0.5s;
     }
 }
