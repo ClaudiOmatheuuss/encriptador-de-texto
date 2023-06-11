@@ -24,7 +24,7 @@
             <div class="botoes">
 
                 <button class="btn-encriptar" onclick="btnEncriptar(), clicado(imagem)">Criptografar</button>
-                <button class="btn-desencriptar" onclick="btnDesencriptar(), clicado(imagem)">Desicriptografar</button>
+                <button class="btn-desencriptar" onclick="btnDesencriptar(), clicado(imagem)">Descriptografar</button>
             </div>
             
         </section>
@@ -32,7 +32,7 @@
         <section class="campo-mensagem">        <!-- código da seção do lado direito  -->
             <textarea class="mensagem" cols="20" rows="10" id="campo-mensagem" readonly></textarea>
             <img src="assets/img/boneco.png" alt="boneco azul" id="img-mensagem">
-            <button class="btn-copiar" onclick="btnCopiar()">Copiar</button>
+            <button class="btn-copiar" onclick="btnCopiar(mensagem)">Copiar</button>
         </section>    
     </main>
 
@@ -54,5 +54,6 @@
     </footer>
     
     <script src="assets/script.js"></script>
+    <script src="assets/clipboard.js-master/dist/clipboard.min.js"></script>
 </body>
 </html>
