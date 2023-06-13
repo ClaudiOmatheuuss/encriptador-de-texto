@@ -85,12 +85,28 @@ Esse projeto foi desenvolvido usando HTML, CSS e JS.
 
 
 .mp4
-https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/559028f5-1e55-4687-8caf-4e4647e472a1
+
+
+
+https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/78977faf-9eb9-41c4-813f-c09bef7f84b5
+
+
+
+
+
+
+
+
+
 
 
 
 .gif
-![Encriptador_video_AdobeExpress](https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/eb1a3f75-fc26-47de-9e8d-767eb7628b66)
+
+![Encriptador_video_AdobeExpress](https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/d677c9c4-f69a-4ad8-9c63-1c4cc03e49ec)
+
+
+
 
 
 
