@@ -29,13 +29,100 @@ Esse projeto foi desenvolvido usando HTML, CSS e JS.
 
 =====================================================================================================================================================================================
 
+=====================================================================================================================================================================================
+				LAYOUTS
 
 
+
+---------------- Desktop ----------------
 
 
 ![a](https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/c4f46339-fa03-41be-a3bd-cfe916e26db4)
 
 
+
+---------------- Tablet ---------------- 
+
+
+
+![image](https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/882f5734-a0f9-4085-b3ac-7e3b3714d1ad)
+
+
+
+
+
+
+---------------- Smartphone ----------------
+
+
+
+
+
+![WhatsApp Image 2023-06-13 at 08 14 17](https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/2d768cb0-fd5f-4c4f-8d9e-9148cacda4da)
+
+
+
+
+
+
+
+
+
+![WhatsApp Image 2023-06-13 at 08 14 17 (1)](https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/c2c04ca2-8a1f-4507-8c9e-95e853e7f6cb)
+
+
+
+
+
+
+
+
+
+=====================================================================================================================================================================================
+
+
+
+
+
+.mp4
+
+
+
+https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/78977faf-9eb9-41c4-813f-c09bef7f84b5
+
+
+
+
+
+
+
+
+
+
+
+
+.gif
+
+![Encriptador_video_AdobeExpress](https://github.com/ClaudiOmatheuuss/encriptador-de-texto/assets/113804116/d677c9c4-f69a-4ad8-9c63-1c4cc03e49ec)
+
+
+
+
+
+
+
+=====================================================================================================================================================================================
+Dica: Você pode usar o site para brincar de detetive com um amigo. Vamos lá!!
+	Nome do jogo: Detective Game
+	
+	Um jogador fica encarregado por assumir o papel de detetive e o outro por ser o enigmista.
+
+	Nesse jogo o detetive é quem vai tentar adivinhar qual mensagem o enigmista encriptou.
+	
+	Ao passar das rodadas você e seu amigo podem trocar os papeis. A rodada consiste em um melhor de 3 onde o detetive pode consultar as regras de criptografia apenas uma vez antes 	de começar a rodada. Ao término de cada rodada os papéis são invertidos.
+
+	NÃO É PERMITIDO FRASES COM MAIS DE DUAS PALAVRAS!!
+=====================================================================================================================================================================================
 
 
 Divirta-se ;)
