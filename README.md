@@ -1,5 +1,5 @@
 # encriptador-de-texto
-Solução do primeiro desafio do programa Oracle Next Education - Turma 5 | Deploy: https://claud10matheus.github.io/encriptador-de-texto/
+Solução do primeiro desafio do programa Oracle Next Education - Turma 5 | Deploy: https://claudiomatheuuss.github.io/encriptador-de-texto/
 
 Esse projeto foi desenvolvido usando HTML, CSS e JS.
     
