@@ -2,7 +2,8 @@
 Solução do primeiro desafio do programa Oracle Next Education - Turma 5 | Deploy: https://claudiomatheuuss.github.io/encriptador-de-texto/
 
 Esse projeto foi desenvolvido usando HTML, CSS e JS.
-    
+
+figma a ser seguido: https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?type=design&node-id=0-1&mode=design
     
     As "chaves" de criptografia que são utilizadas:
     A letra "e" é convertida para "enter"
